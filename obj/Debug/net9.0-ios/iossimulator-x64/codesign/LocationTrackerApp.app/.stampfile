@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/aanik_tmg/Downloads/Cumberlands/4th Sem/MSCS533/LocationTrackerApp/obj/Debug/net9.0-ios/iossimulator-x64/Entitlements.xcent /Users/aanik_tmg/Downloads/Cumberlands/4th Sem/MSCS533/LocationTrackerApp/bin/Debug/net9.0-ios/iossimulator-x64/LocationTrackerApp.app
